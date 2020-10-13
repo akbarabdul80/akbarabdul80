@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying at Gadjah Mada University.
+- 🎓 &nbsp; Studying at University Gadjah Mada.
 - 💼 &nbsp; Working as a Android Dev and Web Dev.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
