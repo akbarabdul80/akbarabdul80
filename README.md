@@ -1,40 +1,15 @@
 <h2> Hey there! I'm Akbar.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## GitHub Stats
 
-- 🎓 &nbsp; Studying at Gadjah Mada University.
-- 💼 &nbsp; Working as a Android Dev and Web Dev.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+<table><tr><td valign="top" width="50%">
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=akbarabdul80&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" align="left" style="width: 100%" />
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=00FFFF)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=00FF00)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=00FF00)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+</td><td valign="top" width="50%">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarabdul80&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile&exclude_repo=website,anonychun.github.io" align="left" style="width: 100%" />
 
-<a href="https://github.com/akbarabdul80">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akbarabdul80&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarabdul80&theme=buefy&layout=compact" />
-</a>
+</td></tr></table>
 
 <br/>
