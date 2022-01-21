@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Akbar.</h2>
+<h2> Hey there! I'm Akbar 👋🏼</h2>
 
 ## GitHub Stats
 
