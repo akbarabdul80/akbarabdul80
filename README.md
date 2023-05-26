@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
+</p>
 <h2> Hey there! I'm Akbar 👋🏼</h2>
 
 ## GitHub Stats
